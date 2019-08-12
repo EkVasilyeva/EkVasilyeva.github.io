@@ -3,7 +3,7 @@ body { margin: 60px auto; width: 70%; }
 head,
 body,
 footer {
-    background-color: Crimson;
+    background-color: LightCoral;
 }
 
 a { text-decoration: none; color: #999; }
