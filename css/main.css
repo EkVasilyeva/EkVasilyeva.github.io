@@ -11,12 +11,7 @@ footer {
     text-align: center;   
 }
 
-footer,
-.body ul {
-       text-color: Crimson;
-}
-
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; text-color: Crimson; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
