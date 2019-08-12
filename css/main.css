@@ -4,6 +4,16 @@ head,
 body,
 footer {
     background-color: LightCoral;
+    text-align: center;
+}
+
+* {
+    text-align: center;   
+}
+
+footer,
+.body nav {
+       text-color: Crimson;
 }
 
 a { text-decoration: none; color: #999; }
